@@ -1,0 +1,7 @@
+[package]
+name = "racer-with-combine-repro"
+version = "0.1.0"
+authors = ["Russell Mull <rmull@polysync.io>"]
+
+[dependencies]
+combine = "3.3.2"
